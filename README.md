@@ -42,7 +42,7 @@ Ensure you have:
 
 ### Clone Repository
 ```
-git clone <https://github.com/taufeeq-mustafa/AI-Powered-Text-Processing-with-Groq-API>
+git clone <https://github.com/taufeeq-mustafa/Smart-AI-Resume-Analyzer>
 cd groq-text-summarizer
 ```
 ### Create & Activate a Virtual Environment
