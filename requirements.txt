@@ -1,0 +1,9 @@
+fastapi 
+python-multipart 
+pdfplumber 
+docx 
+langchain 
+langchain-openai 
+groq
+streamlit
+uvicorn
