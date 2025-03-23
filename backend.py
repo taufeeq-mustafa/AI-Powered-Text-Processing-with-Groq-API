@@ -12,7 +12,7 @@ load_dotenv()
 
 app = FastAPI()
 
-# Groq API Setup
+
 llm = ChatOpenAI(openai_api_key=os.getenv("OPENAI_API_KEY"), model="gpt-4")
 
 
