@@ -24,10 +24,11 @@ The application provides:
 
 ## Project Structure
 ```
-├── index.html          
-├── style.css           
-├── script.js            
-├── README.md 
+├── .env               # API Key 
+├── app.py             # Streamlit Frontend   
+├── backend.py         # Backend            
+├── README.md          #Readme file
+├── requirements.txt   # Project Requirements
 ```
 
 
