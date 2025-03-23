@@ -1,4 +1,4 @@
-# 🚀 AI-Powered Text Processing with Groq API
+# 🚀 Smart AI Resume Analyzer
 
 ## Overview
 The AI Resume Analyzer is a Python-based web application built with Streamlit and FastAPI. It leverages Groq’s AI model (GPT-4) to analyze resumes, assess job fit, and generate AI-powered cover letters. This tool helps job seekers improve their resumes by highlighting strengths, identifying weaknesses, and ensuring alignment with job descriptions.
